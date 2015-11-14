@@ -1,0 +1,32 @@
+header {
+    background-color: #20303c;
+    color: white;
+    padding: 1%;	 
+}
+
+
+item {
+	background-color: white;
+	color: #20303c;
+    font-weight: bold;
+    float: left;
+    padding: 2%;	      
+}
+
+desc {
+	position: absolute;
+	background-color: white;
+	color: #20303c;
+	border-left: solid #20303c;
+	height: 100%;
+ 	padding: 2%;
+}
+
+footer {
+    position: fixed;
+    background-color: #20303c;
+    color: white;
+    width: 100%;
+    padding: 1%;
+    bottom: 0;
+}
