@@ -16,7 +16,7 @@ The Oxford English Dictionary (online) defines a [to-do list](http://www.oxfordd
 	- Date/time last updated
 - Initially, users must log in using their username and password (new users are required to register first)
 - Users must be able to create, read, update and delete (CRUD) items in their to-do list
-- To-do list items can be marked as completed
+- To-do list items can be marked as complete/incomplete
 
 ### Additional Requirements / Features
 - To-do list items can be reordered 
