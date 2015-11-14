@@ -3,13 +3,11 @@
 ### Overview
 In order to refresh my knowledge of PHP, I have decided to design, implement and test a web-based to-do list app.
 
-### Project Brief / Requirements 
-**Definition**
+### Definition
 The Oxford English Dictionary (online) defines a [to-do list](http://www.oxforddictionaries.com/definition/english/to-do-list?q=to-do+list) as:
-
 > A list of tasks that need to be completed, typically organized in order of priority.
 
-**Minimum Requirements / Features**
+### Minimum Requirements / Features
 - Each to-do list item consists of:
 	- Title
 	- Description (max. 100 characters)
@@ -20,7 +18,7 @@ The Oxford English Dictionary (online) defines a [to-do list](http://www.oxfordd
 - Users must be able to create, read, update and delete (CRUD) items in their to-do list
 - To-do list items can be marked as completed
 
-**Additional Requirements / Features**
+### Additional Requirements / Features
 - To-do list items can be reordered 
 - To-do list items can be categorised into folders
 - Provide users with relevant stats, such as:
