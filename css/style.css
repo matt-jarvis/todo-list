@@ -1,30 +1,34 @@
 header {
-    background-color: #20303c;
+	font-family: 'Montserrat', sans-serif;
+    background-color: #203060;
     color: white;
     padding: 1%;	 
 }
 
 
 item {
+	font-family: 'Montserrat', sans-serif;
 	background-color: white;
-	color: #20303c;
+	color: #203060;
     font-weight: bold;
     float: left;
     padding: 2%;	      
 }
 
 desc {
+	font-family: 'Montserrat', sans-serif;
 	position: absolute;
 	background-color: white;
-	color: #20303c;
-	border-left: solid #20303c;
+	color: #203060;
+	border-left: solid #203060;
 	height: 100%;
  	padding: 2%;
 }
 
 footer {
+	font-family: 'Montserrat', sans-serif;
     position: fixed;
-    background-color: #20303c;
+    background-color: #203060;
     color: white;
     width: 100%;
     padding: 1%;
