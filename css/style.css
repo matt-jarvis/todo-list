@@ -1,36 +1,46 @@
-header {
-	font-family: 'Montserrat', sans-serif;
-    background-color: #203060;
+.whiteonblue {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #203080;
     color: white;
-    padding: 1%;	 
 }
 
-
-item {
-	font-family: 'Montserrat', sans-serif;
-	background-color: white;
-	color: #203060;
-    font-weight: bold;
-    float: left;
-    padding: 2%;	      
+.blueonwhite {
+    font-family: 'Montserrat', sans-serif;
+    background-color: white;
+    color: #203080;
 }
 
-desc {
-	font-family: 'Montserrat', sans-serif;
-	position: absolute;
-	background-color: white;
-	color: #203060;
-	border-left: solid #203060;
-	height: 100%;
- 	padding: 2%;
+#todo_list_table {
+    font-family: 'Montserrat', sans-serif;
+    border-collapse: collapse;
+    border: 2px solid #203060;
+}
+
+#todo_list_table th, #todo_list_table td {
+   font-family: 'Montserrat', sans-serif;
+   font-size: 1em;
+   border-collapse: collapse;
+   border: 2px solid #203060;
+   background-color: white;
+   color: #203060;
+   border: 1px solid black;
+   padding: 1%;
+}
+
+#todo_list_table th {
+    font-size: 1.1em;
+    text-align: left;
+    background-color: #203080;
+    color: white;
+}
+
+header {
+    padding: 1%;
 }
 
 footer {
-	font-family: 'Montserrat', sans-serif;
-    position: fixed;
-    background-color: #203060;
-    color: white;
-    width: 100%;
-    padding: 1%;
-    bottom: 0;
+        position: fixed;
+	width: 100%;
+	padding: 1%;
+	bottom: 0;
 }
